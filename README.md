@@ -1,5 +1,5 @@
-# CurriePack
-Currie House Minecraft Resource Pack.  For Minecraft Java Edition.
+# CuriePack
+Curie House Minecraft Resource Pack.  For Minecraft Java Edition.
 
 ### Install
 1) Download the pack.
