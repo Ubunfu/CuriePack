@@ -4,7 +4,7 @@ Curie House Minecraft Resource Pack.  For Minecraft Java Edition.
 ### Install
 1) Download the pack.
 2) Locate your minecraft client's installation directory.
-      * Windows Default: %appdata%\.minecraft
+      * Windows Default: %appdata%\\.minecraft
       * Mac OS Default: ~/Library/Application Support/minecraft
       * Linux Default: ~/.minecraft
 3) If it does not exist, create a directory called "resourcepacks" under your client's install directory. 
