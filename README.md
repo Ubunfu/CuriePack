@@ -15,3 +15,5 @@ Curie House Minecraft Resource Pack.  For Minecraft Java Edition.
 8) You should see "CuriePack" in the available resource packs list on the left. Click the arrow that will appear over the icon to enable it.
 9) Click "Done" to reload your resource packs.
 10) Play minecraft.
+
+Commit to the Artic Code Vault! 1000 YEARS ARCTIC CODE VAULT, MORTY!!
