@@ -27,3 +27,8 @@ Curie House Minecraft Resource Pack.  For Minecraft Java Edition.
 10) Click "Done" to reload your resource packs.
 
 11) Play minecraft.
+
+### Updating
+1) Go to the client install directory
+2) If you installed the pack by cloning it in step 3.1, run: `git pull origin master`
+3) If you downloaded the pack as a zip in step 3.2, repeat that process.
