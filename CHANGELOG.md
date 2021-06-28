@@ -1,5 +1,8 @@
 # Changelog
 
+## [v0.1.1]
+* Bumping pack support version to 1.16.2 – 1.16.5
+
 ## [v0.1.0]
 * [feature]: [Readme improvements; Less obnoxious sheep]()
 
