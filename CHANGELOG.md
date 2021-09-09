@@ -1,5 +1,9 @@
 # Changelog
 
+## [v0.1.2]
+* Bumping pack support version to 1.17
+* Updating creeper sounds
+
 ## [v0.1.1]
 * Bumping pack support version to 1.16.2 – 1.16.5
 
